@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RawaMem/RawaMem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Digizon, an E-commerce website, and a gaming project
 - 🌱 I’m currently sharpening my skills with JavaScript | Python | React | Redux | Node.js | Express.js | Sequelize | Flask | SQLAlchemy
@@ -11,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/rawaha-m-b280a4204/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a Pediatric Dentist with 10 years of experience
--->
