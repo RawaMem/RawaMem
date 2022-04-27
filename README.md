@@ -1,7 +1,7 @@
 ### Hi there, I'm Rawaha Memon 👋
 
 
-- 🔭 I’m currently working on Digizon, an E-commerce website, and a gaming project
+- 🔭 I’m currently working as a Software Engineering Instructional Assistant
 - 🌱 I’m currently sharpening my skills with JavaScript | Python | React | Redux | Node.js | Express.js | Sequelize | Flask | SQLAlchemy
 - 👯 I’m looking for a position as a Full Stack Engineer, a Game Dev, or in AI
 - 📫 How to reach me: https://www.linkedin.com/in/rawaha-m-b280a4204/
