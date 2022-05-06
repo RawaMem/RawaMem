@@ -7,3 +7,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/rawaha-m-b280a4204/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a Pediatric Dentist with 10 years of experience
+
+[![Rawaha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawamem)](https://github.com/rawamem/github-readme-stats)
