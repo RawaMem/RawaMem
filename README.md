@@ -1,4 +1,4 @@
-### Hi there, I'm Rawaha Memon 👋
+### Hi there, I'm Rawaha 👋
 
 
 - 🔭 I’m currently working as a Software Engineering Instructional Assistant
