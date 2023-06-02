@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Software Engineer
 - 🌱 React | Redux |  Express.js | Sequelize | Postgres | JavaScript | Python | Node.js | Flask | SQLAlchemy
-- 👯 I’m open to position working as a Full Stack Engineer, a Game Dev, or in AI
+- 👯 I’m open to work as a Full Stack Engineer, a Game Dev, or in AI
 - 📫 How to reach me: https://www.linkedin.com/in/rawaha-m-b280a4204/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a Pediatric Dentist with 10 years of experience
